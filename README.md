@@ -19,7 +19,7 @@ Currently Learning: Javascript, Typescript, Spring Boot, PixiJS
 2D multiplayer game that will be WebGL export. Game is similar to a child board game where players are supposed to find the image on distributed card on the circular board before other players. Main purpose for me here is to understand Netcode (Unity Multiplayer Solution) and apply IoC through attribute-based dependency injection.
 
 ### [Unnamed PixiJS project](https://github.com/Oguzoz1/pixijs-test-game)
-PixiJS is a framework that works with WebGL directly which can use Javascript and Typescript to develop browser games. In this sense, to be able to understand the concept and capabilities of this framework, this project is under development. Project is public and can also be accessed the built version via [this link](https://aeriastudio.netlify.app/)
+PixiJS is a framework that works with WebGL directly which can use Javascript and Typescript to develop browser games. In this sense, to be able to understand the concept and capabilities of this framework, this project is under development. Project is public and can also be accessed the built version via [this link](https://aeriastudio.netlify.app/) (Project structure and code suffers a lot here. It's a project to study the framework and languages)
 <!--
 **Oguzoz1/Oguzoz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
