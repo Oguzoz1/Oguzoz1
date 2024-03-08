@@ -1,5 +1,7 @@
 ## Profile:
+Hi, I'm Oguz. I'm studying in M.Sc SWE. I am self-taught in Game Development and mostly using Unity. Through my education, I am studying databases, software development and web development. I enjoy software architecture designs, good structured codes (which I'm studying to improve) and game development math.
 
+### Currently:
 Programming Languages: C#, Java (Familiar with Python, Javascript, Typescript)
 
 Current Study: M.Sc in Software Engineering
