@@ -13,7 +13,7 @@ Currently Learning: Javascript, Typescript, Spring Boot, PixiJS
 ### UnSanctified 
 3D action-horror type of game with resource management mechanics. Made with Unity3D. UnSanctified is where the horrors must be fought with praying (timed event mini-game) and solving small puzzles.
 
-<img src="https://github.com/Oguzoz1/Oguzoz1/assets/96492946/dbd1d841-9a0c-4340-a1b5-b5fff54dc0ec" width="400" height="250">
+![ezgif-7-ce42272530](https://github.com/Oguzoz1/Oguzoz1/assets/96492946/e1cc955a-80be-48ff-a8c5-f51e417f17c8)
 
 ### ImageBull
 2D multiplayer game that will be WebGL export. Game is similar to a child board game where players are supposed to find the image on distributed card on the circular board before other players. Main purpose for me here is to understand Netcode (Unity Multiplayer Solution) and apply IoC through attribute-based dependency injection.
