@@ -36,8 +36,15 @@
 
 ![ezgif-7-ce42272530](https://github.com/Oguzoz1/Oguzoz1/assets/96492946/e1cc955a-80be-48ff-a8c5-f51e417f17c8)
 
-### ImageBull
-2D multiplayer game that will be WebGL export. Game is similar to a child board game where players are supposed to find the image on distributed card on the circular board before other players. Main purpose for me here is to understand Netcode (Unity Multiplayer Solution) and apply IoC through attribute-based dependency injection.
+### [Studyhole -Community Content Management Platform-](https://github.com/Oguzoz1/Studyhole-Community-Management)
+It's a reddit-like website application where users can create communities, share posts, comments, like and dislike meanwhile community owners can create post templates for users to be used as a posting method in their respective communities. Requirements, mock-up screens and designs can be found in [repository wiki](https://github.com/Oguzoz1/Studyhole-Community-Management/wiki).
+
+Backend with: Spring
+Frontend with: Angular 17
+Database: MySQL
+Deployed Platform: Google Cloud Service (Dockerized)
+<img src="https://github.com/user-attachments/assets/8922761e-6371-409b-b027-08eecdd56f28" width="600" height="300">
+<img src="https://github.com/user-attachments/assets/cfd07689-f034-4548-b21b-47fd2382a36c" width="600" height="300">
 
 ### [Unnamed PixiJS project](https://github.com/Oguzoz1/pixijs-test-game)
 PixiJS is a framework that works with WebGL directly which can use Javascript and Typescript to develop browser games. In this sense, to be able to understand the concept and capabilities of this framework, this project is under development. Project is public and can also be accessed the built version via [this link](https://aeriastudio.netlify.app/) (Project structure and code suffers a lot here. It's a project to study the framework and languages)
