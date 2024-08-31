@@ -46,7 +46,7 @@ Deployed Platform: Google Cloud Service (Dockerized)
 <img src="https://github.com/user-attachments/assets/8922761e-6371-409b-b027-08eecdd56f28" width="600" height="300">
 <img src="https://github.com/user-attachments/assets/cfd07689-f034-4548-b21b-47fd2382a36c" width="600" height="300">
 
-### [NoBaseChat](https://github.com/Oguzoz1/NoBaseChat)
+### [FluxTalk](https://github.com/Oguzoz1/FluxTalk)
 A chatting application that does not hold logs and underdevelopment for certain goals. Developed with WPF and .NET. It is a public chat room and it is deployed on a Google Cloud Platform VM. For now, it is not encrypted and using TCP connections. TCP connections can be intercepted in public wifis, therefore, If you are using this application, I suggest not to do it so during using public WIFI networks. 
 <img src="https://github.com/user-attachments/assets/e4a3c9ae-55eb-4f6a-9dd3-3084c42c580f" width="600" height="450">
 
