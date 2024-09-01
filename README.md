@@ -48,6 +48,9 @@ Deployed Platform: Google Cloud Service (Dockerized)
 
 ### [FluxTalk](https://github.com/Oguzoz1/FluxTalk)
 A chatting application that does not hold logs and underdevelopment for certain goals. Developed with WPF and .NET. It is a public chat room and it is deployed on a Google Cloud Platform VM. For now, it is not encrypted and using TCP connections. TCP connections can be intercepted in public wifis, therefore, If you are using this application, I suggest not to do it so during using public WIFI networks. 
+
+Server Status: ![Server Status](http://34.141.136.120:5000/status?)
+
 <img src="https://github.com/user-attachments/assets/e4a3c9ae-55eb-4f6a-9dd3-3084c42c580f" width="600" height="450">
 
 
