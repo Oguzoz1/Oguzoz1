@@ -51,7 +51,8 @@ A chatting application that does not hold logs and underdevelopment for certain 
 
 Server Status: ![Server Status](http://34.141.136.120:5000/status?)
 
-<img src="https://github.com/user-attachments/assets/e4a3c9ae-55eb-4f6a-9dd3-3084c42c580f" width="600" height="450">
+
+<img src="https://github.com/user-attachments/assets/c93ac6c7-50a3-41f7-bbb8-9dc3c2d1df6c" width="600" height="400">
 
 
 
