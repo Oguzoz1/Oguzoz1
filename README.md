@@ -29,7 +29,7 @@
 
 </p>
 
-## Portfolio
+## Previous Projects
 
 ![0001-8415-ezgif com-resize (1)](https://github.com/user-attachments/assets/f6970ed7-2cf1-417c-9f59-244f58162e40)
 
