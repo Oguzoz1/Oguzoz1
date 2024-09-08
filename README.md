@@ -29,12 +29,17 @@
 
 </p>
 
+## Portfolio
+
+![0001-8415-ezgif com-resize (1)](https://github.com/user-attachments/assets/f6970ed7-2cf1-417c-9f59-244f58162e40)
+
+[Youtube Video](https://youtu.be/Aa6CvW9lcO0)
 ## Current Projects (Personal)
 
 ### UnSanctified 
 3D action-horror type of game with resource management mechanics. Made with Unity3D. UnSanctified is where the horrors must be fought with praying (timed event mini-game) and solving small puzzles.
-
 ![ezgif-7-ce42272530](https://github.com/Oguzoz1/Oguzoz1/assets/96492946/e1cc955a-80be-48ff-a8c5-f51e417f17c8)
+
 
 ### [Studyhole -Community Content Management Platform-](https://github.com/Oguzoz1/Studyhole-Community-Management)
 It's a reddit-like website application where users can create communities, share posts, comments, like and dislike meanwhile community owners can create post templates for users to be used as a posting method in their respective communities. Requirements, mock-up screens and designs can be found in [repository wiki](https://github.com/Oguzoz1/Studyhole-Community-Management/wiki).
