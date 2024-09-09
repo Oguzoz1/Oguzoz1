@@ -31,9 +31,25 @@
 
 ## Previous Projects
 
-![0001-8415-ezgif com-resize (1)](https://github.com/user-attachments/assets/f6970ed7-2cf1-417c-9f59-244f58162e40)
+<p align="center">
+  <!-- Orbit Idle - Planet Miner Game -->
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <h3>Orbit Idle - Planet Miner Game</h3>
+    <img src="https://github.com/user-attachments/assets/f6970ed7-2cf1-417c-9f59-244f58162e40" alt="Orbit Idle - Planet Miner Game" height="200">
+    <br>
+    <a href="https://youtu.be/Aa6CvW9lcO0">Watch on YouTube</a>
+  </div>
 
-[Youtube Video](https://youtu.be/Aa6CvW9lcO0)
+  <!-- Restaurant Management Idle -->
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <h3>Restaurant Management Idle</h3>
+    <img src="https://github.com/user-attachments/assets/47bf7c38-aad8-4140-85c7-948a409da57d" alt="Restaurant Management Idle" height="200">
+    <br>
+    <a href="https://www.youtube.com/watch?v=n9rEKviz8GA">Watch on YouTube</a>
+  </div>
+</p>
+
+
 ## Current Projects (Personal)
 
 ### UnSanctified 
