@@ -54,7 +54,7 @@
 
 
 
-## Current Projects (Personal)
+## Showcase
 
 ### [Studyhole -Community Content Management Platform-](https://github.com/Oguzoz1/Studyhole-Community-Management)
 It's a reddit-like website application where users can create communities, share posts, comments, like and dislike meanwhile community owners can create post templates for users to be used as a posting method in their respective communities. Requirements, mock-up screens and designs can be found in [repository wiki](https://github.com/Oguzoz1/Studyhole-Community-Management/wiki).
