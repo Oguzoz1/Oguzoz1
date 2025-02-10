@@ -10,7 +10,7 @@
             <p>Languages: C#, Java (Familiar with Python, Javascript, Typescript)</p>
     </td>
     <td style="width: 50%;">
-      <p>Hi, I'm Oguz. I am a Master of Science student in Software Engineering. I am also a Game and Software Developer specialised on Unity, Spring (Java) and .Net (C#, WPF, TCP, SSL). I am developing my own projects and showcasing my previous ones. If you would spare some time, check out my projects below :)
+      <p>Hi, I'm Oguz. I am a Master of Science graduate in Software Engineering. I am also a Game and Software Developer specialised on Unity, and .Net. I am developing my own projects and showcasing my previous ones. If you would spare some time, check out my projects below :)
     </td>
   </tr>
 </table>
